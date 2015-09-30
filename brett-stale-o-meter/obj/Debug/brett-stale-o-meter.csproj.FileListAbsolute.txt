@@ -1,7 +1,0 @@
-C:\Users\blilley\dev\brett-stale-o-meter\brett-stale-o-meter\bin\Debug\brett-stale-o-meter.dll
-C:\Users\blilley\dev\brett-stale-o-meter\brett-stale-o-meter\bin\Debug\brett-stale-o-meter.pdb
-C:\Users\blilley\dev\brett-stale-o-meter\brett-stale-o-meter\bin\Debug\nunit.framework.dll
-C:\Users\blilley\dev\brett-stale-o-meter\brett-stale-o-meter\bin\Debug\nunit.framework.xml
-C:\Users\blilley\dev\brett-stale-o-meter\brett-stale-o-meter\obj\Debug\brett-stale-o-meter.csprojResolveAssemblyReference.cache
-C:\Users\blilley\dev\brett-stale-o-meter\brett-stale-o-meter\obj\Debug\brett-stale-o-meter.dll
-C:\Users\blilley\dev\brett-stale-o-meter\brett-stale-o-meter\obj\Debug\brett-stale-o-meter.pdb
