@@ -13,9 +13,9 @@ namespace brett_stale_o_meter
     public class StaleOMeterTests
     {
         private int _workSatisfactionIndex = 10;
-        private int _projectSatisfactionIndex = 4;
+        private int _projectSatisfactionIndex = 10;
         private int _brettsDesiredProjectDuration = 180;
-        private readonly DateTime _projectStartDate = DateTime.Parse("08-03-2015");
+        private readonly DateTime _projectStartDate = DateTime.Parse("10-05-2015");
         private int _travelIndex = (int)Travel.None;
 
         /*
@@ -24,7 +24,7 @@ namespace brett_stale_o_meter
            1 = mixed or tollerable
            0.5 = pillarforge
         */
-        private double _forgeOrPillarTeamIndex = 4;
+        private double _forgeOrPillarTeamIndex = 1;
 
         [Test]
         public void TestWhetherBrettIsStaleOnThisProject()
